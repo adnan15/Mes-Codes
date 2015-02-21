@@ -5,3 +5,4 @@ Dossier Posgresql: Installation de la base de donnée Posgresql et creation des 
 Dossier ReconPersonne: Reconnaisance facial avec une camera kinect ou celle du pc avec le langage c++.
 Dossier Parseur: Differents parseur avec differents langages.
 Dossier tracer-stat: comment tracer un graphe avec php en utilisant jpgraph?
+Dossier FaireSiteSymf: un exemple symfony
