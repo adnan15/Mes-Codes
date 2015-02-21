@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE exemple SYSTEM "fichier.dtd" []>
+<CONF>
+ <CHAMBRE>
+  <LUMIERE>
+   <P1>
+    <horaire>24:00-07:00</horaire>
+    <presence>off</presence>
+    <seuil>50</seuil>
+   </P1>
+   <P2>
+    <horaire>07:00-24:00</horaire>
+    <presence>on</presence>
+    <seuil>50</seuil>
+   </P2>
+  </LUMIERE>
+  <TEMPERATURE>
+   <P1>
+    <horaire>08:00-17:00</horaire>
+    <degre>0</degre>
+    <presence>off</presence>
+   </P1>
+   <P2>
+    <horaire>17:00-08:00</horaire>
+    <degre>22</degre>
+    <presence>off</presence>
+   </P2>
+  </TEMPERATURE>
+ <HYGROMETRIE>
+  <presence>off</presence>
+  <taux>50</taux>
+ </HYGROMETRIE>
+</CHAMBRE>
+</CONF>

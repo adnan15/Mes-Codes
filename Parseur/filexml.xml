@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ListePersonnes>
+   <Personne>
+       <Nom>abdi wais</Nom>
+       <Prenom>mohamed</Prenom>
+       <Id>1</Id>
+       <Image>visage/abdi/ab.jpeg</Image>
+       <Image>visage/abdi/ab1.jpeg</Image>
+       <Image>visage/abdi/ab2.jpeg</Image>
+       <Image>visage/abdi/ab3.jpeg</Image>
+       <Image>visage/abdi/ab4.jpeg</Image>
+       <Image>visage/abdi/ab5.jpeg</Image>
+       <Image>visage/abdi/ab6.jpeg</Image>
+       <Image>visage/abdi/ab7.jpeg</Image>
+       <Image>visage/abdi/ab8.jpeg</Image>
+       <Image>visage/abdi/ab9.jpeg</Image>
+       <Image>visage/abdi/ab10.jpeg</Image>
+       <Image>visage/abdi/ab11.jpeg</Image>
+       <Image>visage/abdi/ab12.jpeg</Image>
+       <Image>visage/abdi/ab13.jpeg</Image>
+       <Image>visage/abdi/ab14.jpeg</Image>
+       <Image>visage/abdi/ab15.jpeg</Image>
+       <Image>visage/abdi/ab16.jpeg</Image>
+       <Image>visage/abdi/ab17.jpeg</Image>
+       <Image>visage/abdi/ab18.jpeg</Image>
+       <Image>visage/abdi/ab19.jpeg</Image>
+       <Image>visage/abdi/ab20.jpeg</Image>
+       <Image>visage/abdi/ab21.jpeg</Image>
+       <Image>visage/abdi/ab22.jpeg</Image>
+       <Image>visage/abdi/ab23.jpeg</Image>
+       <Image>visage/abdi/ab24.jpeg</Image>
+       <Image>visage/abdi/ab25.jpeg</Image>
+       <Image>visage/abdi/ab26.jpeg</Image>
+   </Personne>
+   <Personne>
+       <Nom>kembou</Nom>
+       <Prenom>jean</Prenom>
+       <Id>2</Id>
+       <Image>visage/jean/jean.jpeg</Image>
+       <Image>visage/jean/jean1.jpeg</Image>
+       <Image>visage/jean/jean2.jpeg</Image>
+       <Image>visage/jean/jean3.jpeg</Image>
+       <Image>visage/jean/jean4.jpeg</Image>
+       <Image>visage/jean/jean5.jpeg</Image>
+       <Image>visage/jean/jean6.jpeg</Image>
+       <Image>visage/jean/jean7.jpeg</Image>
+       <Image>visage/jean/jean8.jpeg</Image>
+       <Image>visage/jean/jean9.jpeg</Image>
+   </Personne>
+</ListePersonnes>
