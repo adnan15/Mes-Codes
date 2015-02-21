@@ -1,0 +1,4 @@
+services:
+#    sc_plateform.example:
+#        class: SC\PlateformBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

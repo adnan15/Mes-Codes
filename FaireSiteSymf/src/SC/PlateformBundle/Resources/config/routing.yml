@@ -1,0 +1,3 @@
+sc_plateform_homepage:
+    path:     /maRoute
+    defaults: { _controller: SCPlateformBundle:Vues:index }

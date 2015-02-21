@@ -1,0 +1,7 @@
+sc_plateform:
+    resource: "@SCPlateformBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: @AppBundle/Controller/
+    type:     annotation
