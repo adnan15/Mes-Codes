@@ -26,14 +26,14 @@ int lire_xml::acquerir(vector<Mat>& images, vector<int>& labels){
     if(!doc->LoadFile()){
        cerr << "erreur lors du chargement" << endl;
        cerr << "error #" << doc->ErrorId() << " : " << doc->ErrorDesc() << endl;
-       cout << "rieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeen" << endl;
+       cout << "error" << endl;
        return 1;
     }
     TiXmlHandle hdl(doc);
    elem = hdl.FirstChild("ListePersonnes").FirstChild("Personne").Element();
 if(!elem){
 	cerr << "le noeud à atteindre n'existe pas" << endl;
-        cout << "erroooooooooooooooooooooooooooooooor" << endl;
+        cout << "error" << endl;
 	return 2;
 }
     while(elem){
@@ -44,7 +44,7 @@ if(!elem){
        
         if(!elem1){
 	cerr << "le noeud à atteindre n'existe pas" << endl;
-        cout << "erroooooooooooooooooooooooooooooooor" << endl;
+        cout << "error" << endl;
 	return 2;
          }
          P.Nom=elem1->GetText();
@@ -68,14 +68,14 @@ int lire_xml::recherche(vector<string>& nom, vector<int>& indices){
     if(!doc->LoadFile()){
        cerr << "erreur lors du chargement" << endl;
        cerr << "error #" << doc->ErrorId() << " : " << doc->ErrorDesc() << endl;
-       cout << "rieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeen" << endl;
+       cout << "rien" << endl;
        return 1;
     }
     TiXmlHandle hdl(doc);
    elem = hdl.FirstChild("ListePersonnes").FirstChild("Personne").Element();
 if(!elem){
 	cerr << "le noeud à atteindre n'existe pas" << endl;
-        cout << "erroooooooooooooooooooooooooooooooor" << endl;
+        cout << "error" << endl;
 	return 2;
 }
     while(elem){
@@ -86,7 +86,7 @@ if(!elem){
        
         if(!elem1){
 	cerr << "le noeud à atteindre n'existe pas" << endl;
-        cout << "erroooooooooooooooooooooooooooooooor" << endl;
+        cout << "error" << endl;
 	return 2;
          }
           nom.push_back(elem1->GetText());
