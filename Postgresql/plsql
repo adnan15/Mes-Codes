@@ -1,0 +1,7 @@
+CREATE TABLE USERS(us_id SERIAL PRIMARY KEY,us_username VARCHAR(50),us_password VARCHAR(50),us_mail VARCHAR(50));
+CREATE TABLE ECOBOX (ec_id SERIAL PRIMARY KEY, ec_adresse TEXT,us_id INT references USERS) ;
+CREATE TABLE BILL (bi_id SERIAL PRIMARY KEY,bi_type VARCHAR(50),bi_consumption INT,bi_date INT default extract(EPOCH FROM CURRENT_TIME),bi_amount INT,ec_id INT references ECOBOX) ;
+CREATE TABLE ROOM (ro_id SERIAL PRIMARY KEY,ro_surface INT,ro_type VARCHAR(50),ro_insulation VARCHAR(50),ec_id INT references ECOBOX);
+CREATE TABLE ACTUATOR_MEASURE (am_id SERIAL PRIMARY KEY,am_date INT default extract(EPOCH FROM CURRENT_TIME),am_value INT,am_type VARCHAR(50),am_techno VARCHAR(50) ,ro_id INT references ROOM);
+CREATE TABLE SENSOR_MEASURE (sm_id SERIAL PRIMARY KEY,sm_date INT default extract(EPOCH FROM CURRENT_TIME),sm_value INT,sm_type VARCHAR(50),ro_id INT references ROOM);
+

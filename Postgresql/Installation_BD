@@ -1,0 +1,5 @@
+sudo apt-get install postgresql     #Installation postgresql
+sudo -i -u postgres                 #Se connecter avec l'utilisateur postgres
+createuser -d -P ebuser             #Creer utilisateur postgres
+createdb ecobase     #Créer la base donnée
+psql -d ecobase -U postgres -f plsql   #Executer le fichier .sql(ici plsql) pour creer les tables
