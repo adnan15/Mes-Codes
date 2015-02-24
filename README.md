@@ -3,7 +3,7 @@
 ##Comment utliser AnalyseSI?
 * Logiciel-modl-merise : AnalyseSI permet de modéliser votre base de données à l'aide de la méthode MERISE.
 
-##Installation Posgres
+##Installation Postgresql
 * Posgresql: Installation de la base de donnée Posgresql et creation des tables a partir d'un fichier SQL.
 
 ##Comment faire la reconnaissance d'une personne personne avec une kinect et OpenCV?
