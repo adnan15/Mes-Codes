@@ -1,0 +1,9 @@
+C:\Users\adnan\Desktop\Taquin\Taquin\obj\x86\Debug\Taquin.exe
+C:\Users\adnan\Desktop\Taquin\Taquin\bin\Debug\Taquin.exe
+C:\Users\adnan\Desktop\Taquin\Taquin\bin\Debug\Taquin.pdb
+C:\Users\adnan\Desktop\Taquin\Taquin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adnan\Desktop\Taquin\Taquin\obj\x86\Debug\Taquin.Form1.resources
+C:\Users\adnan\Desktop\Taquin\Taquin\obj\x86\Debug\Taquin.Properties.Resources.resources
+C:\Users\adnan\Desktop\Taquin\Taquin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\adnan\Desktop\Taquin\Taquin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\adnan\Desktop\Taquin\Taquin\obj\x86\Debug\Taquin.pdb
