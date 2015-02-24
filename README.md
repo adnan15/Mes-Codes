@@ -18,7 +18,9 @@
 ##Un modele symfony avec un exemple de creation d'un site:
 * FaireSiteSymf: un exemple symfony
 
-##Taquin
-* Taquin: 
+##Taquin développé avec visual studio
+* Taquin: Un jeu développé en C# avec les WinForms.
+* Pour jouer ce jeu sous linux(ubuntu), il faut installé mono(mono-complete) qui est une implémentation libre de Microsoft .NET.
+* Virtualiser windows et installer visual studio.
 
 ##
