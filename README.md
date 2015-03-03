@@ -24,4 +24,4 @@
 * Virtualiser windows et installer visual studio.
 
 ##Tic tac développé en C# avec les WinForms.
-*Tic_tac:Un petit jeu simple à développer.
+* Tic_tac:Un petit jeu simple à développer.
