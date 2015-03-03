@@ -1,0 +1,8 @@
+C:\Users\adnan\Desktop\Tic_tac\Tic_tac\bin\Debug\Tic_tac.exe
+C:\Users\adnan\Desktop\Tic_tac\Tic_tac\bin\Debug\Tic_tac.pdb
+C:\Users\adnan\Desktop\Tic_tac\Tic_tac\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adnan\Desktop\Tic_tac\Tic_tac\obj\x86\Debug\Tic_tac.Properties.Resources.resources
+C:\Users\adnan\Desktop\Tic_tac\Tic_tac\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\adnan\Desktop\Tic_tac\Tic_tac\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\adnan\Desktop\Tic_tac\Tic_tac\obj\x86\Debug\Tic_tac.exe
+C:\Users\adnan\Desktop\Tic_tac\Tic_tac\obj\x86\Debug\Tic_tac.pdb
