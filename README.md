@@ -23,4 +23,5 @@
 * Pour jouer ce jeu sous linux(ubuntu), il faut installé mono(mono-complete) qui est une implémentation libre de Microsoft .NET.
 * Virtualiser windows et installer visual studio.
 
-##
+##Tic tac développé en C# avec les WinForms.
+*Tic_tac:Un petit jeu simple à développer.
